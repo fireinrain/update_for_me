@@ -139,4 +139,7 @@ dmypy.json
 cython_debug/
 
 .idea
+./data_store
+products_tools.txt
+
 
